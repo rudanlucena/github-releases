@@ -1,2 +1,10 @@
 language: java
+deploy:
+  provider: releases
+  user: "rudanlucena"
+  password: "hvlk1998"
+  file: "README.md"
+  skip_cleanup: true
+  on:
+    tags: false
 
