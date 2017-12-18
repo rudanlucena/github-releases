@@ -6,5 +6,5 @@ deploy:
   file: "README.md"
   skip_cleanup: true
   on:
-    tags: false
+    tags: true
 
