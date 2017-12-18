@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public double soma(double a, double b){
+        return a + b;
+    }
 }
