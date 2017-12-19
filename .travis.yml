@@ -1,8 +1,7 @@
 language: java
 deploy:
   provider: releases
-  api_key: "ac839033ae40ce2ad76b59f1321aa37149d6d771 "
-  file: "README.md"
+  api_key: "095ffb77d0033b2ad5f99cdd0aec6a78dba9f447"
   skip_cleanup: true
   on:
     tags: true
