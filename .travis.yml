@@ -2,7 +2,7 @@ language: java
 deploy:
   provider: releases
   api_key: "ac839033ae40ce2ad76b59f1321aa37149d6d771 "
-  file: "../github-releaes"
+  file: "README.md"
   skip_cleanup: true
   on:
     tags: true
