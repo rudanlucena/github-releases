@@ -1,7 +1,7 @@
 language: java
 deploy:
   provider: releases
-  api_key: "b5e42690a75fc93a4816d733bb0c837f511527fa"
+  api_key: "6d31bf5e2c7159601cd148b9a223d238e5d46f0f"
   skip_cleanup: true
   on:
     tags: true
